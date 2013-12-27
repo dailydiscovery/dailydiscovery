@@ -1,4 +1,4 @@
 Daily Discovery
 ======
 
-*Daily Discover* encourages lifelong learning through GitHub
+*Daily Discovery* encourages lifelong learning through GitHub
