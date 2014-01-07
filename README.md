@@ -6,7 +6,7 @@ Open source your *discoveries*, and collaboratively learn!
 
 ## Let's Learn
 
-Send your latest *discoveries* with a [Pull Request][pr]. Use [GitHub Flavored Markdown][gfm], or add a source file in any language. [@mention][mention] a mentor or teacher. [Reference][ref] an enlightening code snippet.  Expand a *discovery* with a commit comment.  Be inventive!!! 
+Send your *discoveries* with a [Pull Request][pr]. Use [GitHub Flavored Markdown][gfm], or add a source file in any language. [@mention][mention] a mentor or teacher. [Reference][ref] an enlightening code snippet.  Expand a *discovery* with a commit comment.  Be inventive!!! 
 
 ## Discovery Format
 
